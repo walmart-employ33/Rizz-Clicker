@@ -1,5 +1,3 @@
-1) Extract the whole zip
-
-2) Open "Dabloon Clicker UFEXE.exe" to start the app.
-
-Open "licenses.html" for information regarding open source software used by the app.
+Get the verison of nullOS you would like to install.
+Wait until its done installing.
+Lanuch it or unzip then lanuch it and you have nullOS running in your computer!
